@@ -11,6 +11,7 @@ operating system course project.
   
 	$ ./shell
 
+• N subcommand to run in N child-process, supporting N - 1 pipes connection.
 
 • The shell prints a prompt when it is ready for the user to input a command. 
 
